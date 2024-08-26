@@ -17,7 +17,7 @@ Adoro o mundo da tecnologia, estou sempre presente em eventos e workshops, me co
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
 ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
 ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg??style=for-the-badge&logo=openjdk&logoColor=white)
 
 
 <img align= "right" width= "250" src= "https://pa1.narvii.com/6580/8098c6e9207376889eeb0532d9f5a0723c4d73f5_hq.gif"/>
@@ -34,6 +34,6 @@ Adoro o mundo da tecnologia, estou sempre presente em eventos e workshops, me co
 
 **GitHub Stats**
 
-<a href="https://github.com/leticiabaldin" title="Perfil do Let">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=leticiabaldin&theme=dracula&show_icons=true" />
+<a href="https://github.com/kelscrr" title="Perfil do Let">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kelscrr&theme=dracula&show_icons=true" />
 </a>
