@@ -195,7 +195,7 @@ Tudo isso termina em **relatórios técnicos e executivos** com recomendações 
 ---
 
 <p align="center">
-  <b>Bora trocar ideia sobre threat intel, cybercrime ou caça a C2?</b><br><br>
+  <b>Bora trocar ideia ?</b><br><br>
   <a href="https://www.linkedin.com/in/kelvyngabriel/"><img src="https://img.shields.io/badge/Me%20chama%20no%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Me chama no LinkedIn"></a>
 </p>
 
